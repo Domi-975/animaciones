@@ -26,7 +26,7 @@ nav {
     display: flex;
     align-items: center; 
     padding: 20px;
-    background-image: url('/assets/img/playa.jpg');
+    background-image: url('../img/playa.jpg');
     background-size: contain;
     background-size: cover; 
     background-position: center; 
